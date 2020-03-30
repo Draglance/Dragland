@@ -1,2 +1,2 @@
-# Dragland
-My very own projects
+# CS50 Psets
+My projects
